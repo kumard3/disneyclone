@@ -1,0 +1,14 @@
+.header{
+
+    height: 70px;
+    background-color: #090b13;
+}
+.header_nav{
+    float: left;
+    padding-left:15px ;
+    padding-top: 7px;
+}
+.nav-logo{
+width: 100px;
+
+}
